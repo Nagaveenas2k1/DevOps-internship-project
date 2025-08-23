@@ -102,7 +102,7 @@ You can find the workflow definition at `.github/workflows/ci-cd.yml`.
 
 ---
 
-### Terminal Output (Build/Run/Deploy):
+### Terminal Screenshot:
   
   ![Terminal Screenshot](screenshots/terminal-screenshot.png)
 
