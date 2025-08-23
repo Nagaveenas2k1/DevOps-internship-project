@@ -60,11 +60,11 @@ You can find the workflow definition at `.github/workflows/ci-cd.yml`.
 
 ### Clone and Start the App
 
-- https://github.com/Nagaveenas2k1/DevOps-internship-project.git
+- Clone : [https://github.com/Nagaveenas2k1/DevOps-internship-project.git](https://github.com/Nagaveenas2k1/DevOps-internship-project.git)
 
-  ``cd DevOps-internship-project/ci-cd-docker-github``
+  - ``cd DevOps-internship-project/ci-cd-docker-github``
   
-  ``docker-compose up``
+  - ``docker-compose up``
 
 - Access the app at [http://localhost:5000](http://localhost:5000).
 
@@ -84,22 +84,26 @@ You can find the workflow definition at `.github/workflows/ci-cd.yml`.
 
 ## Screenshots
 
-- **GitHub Actions CI/CD Workflow Success:**  
+### GitHub Actions CI/CD Workflow Success:
+    
   ![GitHub Actions Success](screenshots/github-actions-success.png)
 
 ---
 
-- **Docker Hub Image Page:**  
+### Docker Hub Image Page:
+   
   ![DockerHub Image](screenshots/dockerhub-image.png)
 
 ---
 
-- **Application Running Locally:**  
+### Application Running Locally:
+  
   ![App Running on Localhost](screenshots/local-app-running.png)
 
 ---
 
-- **Terminal Output (Build/Run/Deploy):**  
+### Terminal Output (Build/Run/Deploy):
+  
   ![Terminal Screenshot](screenshots/terminal-screenshot.png)
 
 ---
